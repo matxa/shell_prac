@@ -1,1 +1,1 @@
-Practicing Everything you need to know to start coding your own shell
+Everything you need to know to start coding your own shell
